@@ -1,1 +1,3 @@
-# NLP_intent_classification
+# NLP intent classification
+
+Transformer models like BERT have shown great success in various natural language processing tasks, but they often require a significant amount of time and computational resources to train and deploy due to their large size. In this analysis, we are comparing the accuracy of four small BERT transformers as a solution to reduce the computational requirements while maintaining similar levels of performance. Additionally, we are examining the impact of using an MLP decoder, which appears to have a positive effect on accuracy. We evaluate our results on a new benchmark we call Sequence labellIng evaLuatIon benChmark fOr spoken laNguagE benchmark (SILICONE).
